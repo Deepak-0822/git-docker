@@ -23,5 +23,5 @@ function getUserData(id) {
     return user.email;
   };
   
-  module.exports = { getUserData, getUserEmail };
+  module.exports = { getUserData, getUserEmail }
   
