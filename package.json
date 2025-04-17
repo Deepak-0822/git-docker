@@ -1,0 +1,14 @@
+{
+  "name": "eslint-docker-action-demo",
+  "version": "1.0.0",
+  "description": "Demo project to run ESLint using custom Docker GitHub Action",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.56.0"
+  }
+}
