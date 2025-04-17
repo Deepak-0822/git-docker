@@ -1,0 +1,5 @@
+name: "Custom ESLint Action"
+description: "A custom GitHub Action that lints JavaScript code using ESLint in a Docker container"
+runs:
+  using: "docker"
+  image: "Dockerfile"
