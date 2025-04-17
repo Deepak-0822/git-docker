@@ -1,6 +1,6 @@
 export default [
     {
-      files: ["src/**/*.js"],
+      files: ["./*.js"],
       rules: {
         semi: ["error", "always"],
         quotes: ["error", "double"]
